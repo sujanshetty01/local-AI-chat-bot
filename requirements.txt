@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+scikit-learn
+streamlit
+pandas
+requests
+sqlalchemy 

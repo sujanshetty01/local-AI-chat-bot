@@ -1,0 +1,11 @@
+flight_number,airline,departure_city,arrival_city,departure_time,arrival_time,price,duration,aircraft_type,status
+AA101,American Airlines,New York,Los Angeles,08:00,11:30,299,5h 30m,Boeing 737,On Time
+UA202,United Airlines,Chicago,Miami,14:15,18:45,185,4h 30m,Airbus A320,Delayed
+DL303,Delta Airlines,San Francisco,Seattle,10:00,12:00,150,2h 0m,Boeing 757,On Time
+SW404,Southwest Airlines,Dallas,Denver,13:30,15:00,120,1h 30m,Boeing 737,Cancelled
+BA505,British Airways,London,New York,16:00,19:00,600,8h 0m,Boeing 777,On Time
+AF606,Air France,Paris,Bangalore,22:00,11:00,750,9h 0m,Airbus A380,Delayed
+AI707,Air India,Mumbai,Delhi,09:45,11:30,100,1h 45m,Airbus A320,On Time
+EK808,Emirates,Dubai,Sydney,02:00,22:00,1200,14h 0m,Airbus A380,On Time
+LH909,Lufthansa,Frankfurt,Tokyo,12:30,07:30,850,11h 0m,Boeing 747,Delayed
+QF010,Qantas,Melbourne,Auckland,07:00,12:00,400,3h 0m,Boeing 737,On Time
