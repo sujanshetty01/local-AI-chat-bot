@@ -1,0 +1,11 @@
+id,brand,model,year,color,price,fuel_type,mileage,transmission
+1,Toyota,Corolla,2020,White,18000,Petrol,30,Automatic
+2,Honda,Civic,2019,Black,20000,Petrol,32,Manual
+3,Hyundai,Elantra,2021,Blue,19500,Diesel,28,Automatic
+4,Ford,Mustang,2018,Red,35000,Petrol,22,Manual
+5,Chevrolet,Malibu,2020,Gray,21000,Petrol,29,Automatic
+6,BMW,3 Series,2021,Black,40000,Diesel,25,Automatic
+7,Audi,A4,2022,White,45000,Petrol,27,Automatic
+8,Kia,Optima,2019,Silver,17000,Petrol,31,Manual
+9,Mercedes,C Class,2021,Blue,48000,Diesel,26,Automatic
+10,Volkswagen,Passat,2020,White,22000,Petrol,30,Manual
